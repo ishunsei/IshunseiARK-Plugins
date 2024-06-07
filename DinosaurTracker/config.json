@@ -1,0 +1,17 @@
+{
+  "TraceCommands": [
+    "/trace",
+    "/找龙"
+  ],
+  "DistanceCoefficient": 450,
+  "DisplayTime": 5,
+  "DisplayScale": 1,
+  "NotificationIcon": "",
+  "CharacterDeathError": "角色死亡时禁止使用此命令！",
+  "FormatError": "请输入正确的格式！",
+  "DinoNotFoundError": "没有找到匹配的恐龙！",
+  "PageSize": 10,
+  "Title": "编号\t\t\t\t名称\t\t\t\t坐标\t\t\t\t距离",
+  "Content": "{number}.\t\t\t\t{name}({biologyName}-等级{level})\t\t\t\t{y}-{x}\t\t\t\t{distance}m",
+  "Footer": "共{totalCount}只\t\t\t\t共{totalPage}页\t\t\t\t当前第{currentPage}页"
+}

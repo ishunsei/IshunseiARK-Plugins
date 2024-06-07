@@ -1,0 +1,18 @@
+{
+  "FindCommands": [
+    "/find",
+    "/找包"
+  ],
+  "PullCommands": [
+    "/pull",
+    "/拉包"
+  ],
+  "PackageSurvivalTime": 3600,
+  "PackageFoundMessage": "已找到包裹{y}-{x}",
+  "DeadCharacterFoundMessage": "已找到尸体{y}-{x}",
+  "PackagePulledMessage": "已从{y}-{x}处拉取包裹，请尽快拾取！",
+  "DeadCharacterPulledMessage": "已从{y}-{x}处拉取尸体包裹，请尽快拾取！",
+  "PackageNotFoundError": "没有找到任何尸体或包裹！",
+  "PackageFoundTips": "已为您找到{}个尸体或包裹！",
+  "CharacterDeathError": "角色死亡时禁止使用此命令！"
+}

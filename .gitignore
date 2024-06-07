@@ -1,0 +1,11 @@
+# IDE cache directory
+.vs/
+.idea/
+
+# Build cache
+x64/
+[Tt]emp/
+Framework-ArkServerApi/out_lib
+
+# Packages
+[Pp]ackages

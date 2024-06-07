@@ -1,0 +1,55 @@
+{
+  "ReplaceLocalMessage": false,
+  "ServerName": "Test",
+  "EmojiEscape": {
+    ">:)": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Evil.Emo_Evil\"/>",
+    ":)": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Smile.Emo_Smile\"/>",
+    ";)": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Wink.Emo_Wink\"/>",
+    ":D": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Laugh.Emo_Laugh\"/>",
+    ":d": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Laugh.Emo_Laugh\"/>",
+    ":(": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Sad.Emo_Sad\"/>",
+    ":|": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Blank.Emo_Blank\"/>",
+    ":O": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Eyes.Emo_Eyes\"/>",
+    ":o": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Eyes.Emo_Eyes\"/>",
+    ":P": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Tongue.Emo_Tongue\"/>",
+    ":p": "<img src=\"Chat.Image\" path=\"/Game/PrimalEarth/Emo/Emo_Tongue.Emo_Tongue\"/>"
+  },
+  "Default": {
+    "Name": "默认",
+    "Icon": "",
+    "Message": "<RichColor Color=\"0,225,225,1\">{}</>",
+    "Disabled": false
+  },
+  "Groups": [
+    {
+      "GroupName": "Default",
+      "Name": "",
+      "Icon": "/Game/PrimalEarth/UI/Textures/CraftingBrokenIcon.CraftingBrokenIcon",
+      "Message": "<RichColor Color=\"0,225,225,1\">{}</>",
+      "Disabled": true
+    },
+    {
+      "GroupName": "VIPX",
+      "Name": "金主",
+      "Icon": "/Game/PrimalEarth/UI/Textures/CraftingBrokenIcon.CraftingBrokenIcon",
+      "Message": "{}",
+      "Disabled": false
+    },
+    {
+      "GroupName": "VIP1",
+      "Name": "VIP1",
+      "Icon": "/Game/PrimalEarth/UI/Textures/CraftingBrokenIcon.CraftingBrokenIcon",
+      "Message": "{}",
+      "Disabled": false
+    }
+  ],
+  "Players": [
+    {
+      "SteamId": 76561198323369576,
+      "Name": "ishunsei",
+      "Icon": "/Game/PrimalEarth/UI/Textures/CraftingBrokenIcon.CraftingBrokenIcon",
+      "Message": "<RichColor Color=\"0,225,225,1\">{}</>",
+      "Disabled": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "FullName":"CrossServerChat",
+  "Description":"CrossServerChat plugin by ishunsei",
+  "Version":1.0,
+  "MinApiVersion":2.9,
+  "Dependencies":[
+  ]
+}

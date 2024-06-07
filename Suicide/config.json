@@ -1,0 +1,10 @@
+{
+  "SuicideCommands": [
+    "/suicide",
+    "/自杀"
+  ],
+  "CharacterSittingError": "坐下时不允许自杀！",
+  "CharacterRidingError": "骑乘恐龙不允许自杀！",
+  "CharacterDeathError": "请勿重复自杀！",
+  "SuicideMessage": "您已成功在{y}-{x}处自杀！"
+}
