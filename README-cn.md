@@ -7,7 +7,7 @@
 - 基于Redis的跨服聊天插件 (<a href="CrossServerChat/README-cn.md">CrossServerChat</a>)
 - 自杀插件 (<a href="Suicide/README-cn.md">Suicide</a>)
 - 找包插件 (<a href="LostPackagesFinder/README-cn.md">LostPackagesFinder</a>)
-- 寻龙插件 (<a href="DinosaurTracker/README-cn.md">CrossServerChat</a>)
+- 寻龙插件 (<a href="DinosaurTracker/README-cn.md">DinosaurTracker</a>)
 
 如插件详情页中未出现与本说明重复内容，则以本说明为准。
 

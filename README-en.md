@@ -7,7 +7,7 @@ This repository contains a collection of server plugins developed by ishunsei fo
 - Cross-Server Chat Plugin based on Redis (<a href="CrossServerChat/README-en.md">CrossServerChat</a>)
 - Suicide Plugin (<a href="Suicide/README-en.md">Suicide</a>)
 - Lost Packages Finder Plugin (<a href="LostPackagesFinder/README-en.md">LostPackagesFinder</a>)
-- Dinosaur Tracker Plugin (<a href="DinosaurTracker/README-en.md">CrossServerChat</a>)
+- Dinosaur Tracker Plugin (<a href="DinosaurTracker/README-en.md">DinosaurTracker</a>)
 
 If there is no content in the plugin details page that repeats this explanation, then this explanation takes precedence.
 
